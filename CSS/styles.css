@@ -1,0 +1,49 @@
+.elsosor {
+    text-transform: lowercase;
+    letter-spacing: 32px;
+  }
+
+.masodiksor {
+    text-decoration: underline;
+}
+
+.harmadiksor {
+    font-size: 20pt;
+}
+
+.negyediksor {
+    color: #800080;
+}
+
+.otodiksor {
+    font-weight: bold;
+}
+
+.hatodiksor:first-letter{
+    font-family: cursive;
+  }
+
+.arnyekolt {
+    text-shadow: 1px 1px #000000;
+}
+
+
+
+.masodikszo {
+    font-size: 24px;
+}
+
+.alahuz {
+    text-decoration: underline;
+}
+
+.athuz {
+    text-decoration: line-through;
+    color: rgb(231, 218, 39);
+    /* Nem vagyok színvak, így csak könnyebben olvasható */
+}
+
+.wtf {
+    background-color: #1200b4;
+    color: white;
+}
